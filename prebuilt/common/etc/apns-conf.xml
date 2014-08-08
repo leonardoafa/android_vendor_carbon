@@ -1603,6 +1603,9 @@
   <apn carrier="Amazonia MMS" mcc="724" mnc="24" apn="mmsgprs.amazoniacelular.com.br" user="celular" password="celular" mmsc="http://mms.amazoniacelular.com.br" mmsproxy="200.192.230.142" mmsport="8080" type="mms" />
   <apn carrier="Oi" mcc="724" mnc="31" apn="gprs.oi.com.br" user="oi" password="oi" mmsc="null" type="default,supl" />
   <apn carrier="Oi MMS" mcc="724" mnc="31" apn="mmsgprs.oi.com.br" user="oimms" password="oioioi" mmsc="http://200.222.042.204:8002" mmsproxy="192.168.10.50" mmsport="3128" type="mms" />
+  <apn carrier="CTBC 3G Dados" mcc="724" mnc="32" apn="ctbc.br" user="ctbc" password="1212" type="default,supl" />
+  <apn carrier="CTBC 3G Dados" mcc="724" mnc="33" apn="ctbc.br" user="ctbc" password="1212" type="default,supl" />
+  <apn carrier="CTBC 3G Dados" mcc="724" mnc="34" apn="ctbc.br" user="ctbc" password="1212" type="default,supl" />
   <apn carrier="CTBC MMS" mcc="724" mnc="32" apn="mms.ctbc.br" user="ctbc" password="1212" mmsc="http://mms.ctbccelular.com.br/was" mmsproxy="172.29.7.70" mmsport="8080" type="mms" />
   <apn carrier="CTBC MMS" mcc="724" mnc="33" apn="mms.ctbc.br" user="ctbc" password="1212" mmsc="http://mms.ctbccelular.com.br/was" mmsproxy="172.29.7.70" mmsport="8080" type="mms" />
   <apn carrier="CTBC MMS" mcc="724" mnc="34" apn="mms.ctbc.br" user="ctbc" password="1212" mmsc="http://mms.ctbccelular.com.br/was" mmsproxy="172.29.7.70" mmsport="8080" type="mms" />
